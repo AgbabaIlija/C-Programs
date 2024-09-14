@@ -1,0 +1,323 @@
+[12:09:24] [WARNING] mysql_connect: no password specified
+[17:42:38] [WARNING] mysql_connect: no password specified
+[17:42:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:42:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:42:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:42:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:42:52] [WARNING] mysql_connect: no password specified
+[17:42:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:42:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:42:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:42:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'playerinfomp_database''
+[17:44:58] [WARNING] mysql_connect: no password specified
+[17:45:46] [ERROR] error #1054 while executing query "SELECT * FROM `users` WHERE `Username` = `Elijah_Trotter` LIMIT 1": Unknown column 'Username' in 'where clause'
+[17:46:31] [ERROR] mysql_format: destination size '256' is too small
+[17:48:02] [WARNING] mysql_connect: no password specified
+[17:48:28] [ERROR] error #1054 while executing query "SELECT * FROM `users` WHERE `Name` = `Elijah_Trotter` LIMIT 1": Unknown column 'Elijah_Trotter' in 'where clause'
+[17:49:06] [ERROR] mysql_format: destination size '256' is too small
+[17:54:22] [WARNING] mysql_connect: no password specified
+[17:55:11] [ERROR] mysql_format: destination size '256' is too small
+[17:55:11] [ERROR] error #1065 while executing query "": Query was empty
+[17:56:52] [ERROR] mysql_format: destination size '256' is too small
+[17:57:29] [ERROR] mysql_format: destination size '256' is too small
+[17:57:29] [ERROR] error #1065 while executing query "": Query was empty
+[17:58:54] [ERROR] mysql_format: destination size '256' is too small
+[18:02:39] [WARNING] mysql_connect: no password specified
+[18:04:17] [WARNING] mysql_connect: no password specified
+[18:04:57] [ERROR] mysql_format: destination size '256' is too small
+[18:04:57] [ERROR] error #1065 while executing query "": Query was empty
+[18:06:05] [ERROR] mysql_format: destination size '256' is too small
+[18:10:56] [WARNING] mysql_connect: no password specified
+[18:11:54] [ERROR] mysql_format: destination size '256' is too small
+[18:11:54] [ERROR] error #1065 while executing query "": Query was empty
+[18:12:23] [ERROR] mysql_format: destination size '256' is too small
+[18:12:51] [ERROR] mysql_format: destination size '256' is too small
+[18:12:51] [ERROR] error #1065 while executing query "": Query was empty
+[18:24:58] [WARNING] mysql_connect: no password specified
+[18:25:31] [ERROR] error #1064 while executing query "INSERT INTO `users` (`Name` `Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Weapon2` `Weapon3` `Weapon1Ammo` `Weapon2Ammo` `Weapon3Ammo` `Job` `JobActivity` `Phone` `PhoneNumber` `CoordinateX` `CoordinateY` `CoordinateZ` `Angle` `Interior` `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Wea' at line 1
+[18:26:16] [ERROR] mysql_format: no value for specifier '%d' passed
+[18:26:52] [ERROR] error #1064 while executing query "INSERT INTO `users` (`Name` `Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Weapon2` `Weapon3` `Weapon1Ammo` `Weapon2Ammo` `Weapon3Ammo` `Job` `JobActivity` `Phone` `PhoneNumber` `CoordinateX` `CoordinateY` `CoordinateZ` `Angle` `Interior` `VirtualWorld`) VALUES ('Elijah_Trotter', '967F37A840839B5F850EC2623C5B37D39B28A429E3308AD3789818F7447E9176', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Wea' at line 1
+[18:30:30] [WARNING] mysql_connect: no password specified
+[18:34:08] [WARNING] mysql_connect: no password specified
+[18:34:52] [ERROR] error #1064 while executing query "INSERT INTO `users` (`Name` `Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Weapon2` `Weapon3` `Weapon1Ammo` `Weapon2Ammo` `Weapon3Ammo` `Job` `JobActivity` `Phone` `PhoneNumber` `CoordinateX` `CoordinateY` `CoordinateZ` `Angle` `Interior` `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Wea' at line 1
+[18:35:10] [ERROR] mysql_format: no value for specifier '%d' passed
+[18:35:10] [ERROR] error #1065 while executing query "": Query was empty
+[18:35:38] [ERROR] error #1064 while executing query "INSERT INTO `users` (`Name` `Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Weapon2` `Weapon3` `Weapon1Ammo` `Weapon2Ammo` `Weapon3Ammo` `Job` `JobActivity` `Phone` `PhoneNumber` `CoordinateX` `CoordinateY` `CoordinateZ` `Angle` `Interior` `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Wea' at line 1
+[18:36:24] [ERROR] mysql_format: no value for specifier '%d' passed
+[18:36:24] [ERROR] error #1065 while executing query "": Query was empty
+[21:33:28] [WARNING] mysql_connect: no password specified
+[21:33:32] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:33:36] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:33:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:33:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:33:50] [WARNING] mysql_connect: no password specified
+[21:33:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:33:58] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:34:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:34:06] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[21:34:44] [WARNING] mysql_connect: no password specified
+[21:35:12] [ERROR] error #1064 while executing query "INSERT INTO `users` (`Name` `Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Weapon2` `Weapon3` `Weapon1Ammo` `Weapon2Ammo` `Weapon3Ammo` `Job` `JobActivity` `Phone` `PhoneNumber` `CoordinateX` `CoordinateY` `CoordinateZ` `Angle` `Interior` `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Wea' at line 1
+[21:36:39] [ERROR] error #1064 while executing query "UPDATE `users` SET `Score` = '0' `Cash` = '0' `Admin` = '0' `Skin` = '124' `Kills` = '0' `Deaths` = '0' `Armor` = '0.000000' `Weapon1` = '24' `Weapon2` = '0' `Weapon3` = '0' `Weapon1Ammo` = '116' `Weapon2Ammo` = '0' `Weapon3Ammo` = '0' `Job` = '0' `JobActivity` = '0' `Phone` = '0' `PhoneNumber` = '0' `CoordinateX` = '2306.440186' `CoordinateY` = '701.542969' `CoordinateZ` = '10.955370' `Angle` = '167.332199' `Interior` = '0' `VirtualWorld` = '0' WHERE `ID` = '0' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Cash` = '0' `Admin` = '0' `Skin` = '124' `Kills` = '0' `Deaths` = '0' `Armor` =' at line 1
+[21:36:39] [ERROR] error #1064 while executing query "UPDATE `users` SET `Score` = '0' `Cash` = '0' `Admin` = '0' `Skin` = '124' `Kills` = '0' `Deaths` = '0' `Armor` = '0.000000' `Weapon1` = '24' `Weapon2` = '0' `Weapon3` = '0' `Weapon1Ammo` = '116' `Weapon2Ammo` = '0' `Weapon3Ammo` = '0' `Job` = '0' `JobActivity` = '0' `Phone` = '0' `PhoneNumber` = '0' `CoordinateX` = '2306.440186' `CoordinateY` = '701.542969' `CoordinateZ` = '10.955370' `Angle` = '167.332199' `Interior` = '0' `VirtualWorld` = '0' WHERE `ID` = '0' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Cash` = '0' `Admin` = '0' `Skin` = '124' `Kills` = '0' `Deaths` = '0' `Armor` =' at line 1
+[21:36:39] [ERROR] CCallback::Execute - invalid AMX instance
+[21:36:39] [ERROR] CCallback::Execute - invalid AMX instance
+[21:36:52] [WARNING] mysql_connect: no password specified
+[21:36:58] [ERROR] error #1064 while executing query "INSERT INTO `users` (`Name` `Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Weapon2` `Weapon3` `Weapon1Ammo` `Weapon2Ammo` `Weapon3Ammo` `Job` `JobActivity` `Phone` `PhoneNumber` `CoordinateX` `CoordinateY` `CoordinateZ` `Angle` `Interior` `VirtualWorld`) VALUES ('Elijah_Trotter', '967F37A840839B5F850EC2623C5B37D39B28A429E3308AD3789818F7447E9176', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Password` `Score` `Cash` `Admin` `Skin` `Kills` `Deaths` `Armor` `Weapon1` `Wea' at line 1
+[21:38:19] [ERROR] error #1064 while executing query "UPDATE `users` SET `Score` = '0' `Cash` = '0' `Admin` = '0' `Skin` = '0' `Kills` = '0' `Deaths` = '0' `Armor` = '0.000000' `Weapon1` = '0' `Weapon2` = '0' `Weapon3` = '0' `Weapon1Ammo` = '0' `Weapon2Ammo` = '0' `Weapon3Ammo` = '0' `Job` = '0' `JobActivity` = '0' `Phone` = '0' `PhoneNumber` = '0' `CoordinateX` = '1962.318604' `CoordinateY` = '1339.878784' `CoordinateZ` = '16.014172' `Angle` = '223.600845' `Interior` = '0' `VirtualWorld` = '0' WHERE `ID` = '0' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`Cash` = '0' `Admin` = '0' `Skin` = '0' `Kills` = '0' `Deaths` = '0' `Armor` = '' at line 1
+[22:41:46] [WARNING] mysql_connect: no password specified
+[22:43:48] [WARNING] mysql_connect: no password specified
+[22:44:45] [WARNING] mysql_connect: no password specified
+[14:15:02] [WARNING] mysql_connect: no password specified
+[14:25:29] [WARNING] mysql_connect: no password specified
+[14:28:10] [WARNING] mysql_connect: no password specified
+[15:01:33] [WARNING] mysql_connect: no password specified
+[15:12:02] [WARNING] mysql_connect: no password specified
+[15:23:45] [WARNING] mysql_connect: no password specified
+[16:54:37] [WARNING] mysql_connect: no password specified
+[16:56:28] [WARNING] mysql_connect: no password specified
+[16:56:28] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[17:01:36] [WARNING] mysql_connect: no password specified
+[17:01:36] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[17:08:45] [WARNING] mysql_connect: no password specified
+[17:08:45] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[20:56:42] [WARNING] mysql_connect: no password specified
+[21:20:48] [WARNING] mysql_connect: no password specified
+[21:20:48] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[21:24:02] [WARNING] mysql_connect: no password specified
+[21:24:02] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[21:25:01] [WARNING] mysql_connect: no password specified
+[21:25:01] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[21:32:29] [WARNING] mysql_connect: no password specified
+[21:32:29] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[21:32:37] [ERROR] error #1062 while executing query "INSERT INTO `users` (`Name`, `Password`, `Score`, `Cash`, `Admin`, `Skin`, `Kills`, `Deaths`, `Armor`, `Weapon1`, `Weapon2`, `Weapon3`, `Weapon1Ammo`, `Weapon2Ammo`, `Weapon3Ammo`, `Job`, `JobActivity`, `Phone`, `PhoneNumber`, `CoordinateX`, `CoordinateY`, `CoordinateZ`, `Angle`, `Interior`, `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": Duplicate entry '0' for key 'PhoneNumber'
+[21:34:25] [WARNING] mysql_connect: no password specified
+[21:34:32] [ERROR] error #1062 while executing query "INSERT INTO `users` (`Name`, `Password`, `Score`, `Cash`, `Admin`, `Skin`, `Kills`, `Deaths`, `Armor`, `Weapon1`, `Weapon2`, `Weapon3`, `Weapon1Ammo`, `Weapon2Ammo`, `Weapon3Ammo`, `Job`, `JobActivity`, `Phone`, `PhoneNumber`, `CoordinateX`, `CoordinateY`, `CoordinateZ`, `Angle`, `Interior`, `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": Duplicate entry '0' for key 'PhoneNumber'
+[15:19:25] [WARNING] mysql_connect: no password specified
+[17:52:24] [WARNING] mysql_connect: no password specified
+[17:53:02] [ERROR] error #1062 while executing query "INSERT INTO `users` (`Name`, `Password`, `Score`, `Cash`, `Admin`, `Skin`, `Kills`, `Deaths`, `Armor`, `Weapon1`, `Weapon2`, `Weapon3`, `Weapon1Ammo`, `Weapon2Ammo`, `Weapon3Ammo`, `Job`, `JobActivity`, `Phone`, `PhoneNumber`, `CoordinateX`, `CoordinateY`, `CoordinateZ`, `Angle`, `Interior`, `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": Duplicate entry '0' for key 'PhoneNumber'
+[17:58:14] [WARNING] mysql_connect: no password specified
+[17:58:18] [ERROR] error #1062 while executing query "INSERT INTO `users` (`Name`, `Password`, `Score`, `Cash`, `Admin`, `Skin`, `Kills`, `Deaths`, `Armor`, `Weapon1`, `Weapon2`, `Weapon3`, `Weapon1Ammo`, `Weapon2Ammo`, `Weapon3Ammo`, `Job`, `JobActivity`, `Phone`, `PhoneNumber`, `CoordinateX`, `CoordinateY`, `CoordinateZ`, `Angle`, `Interior`, `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": Duplicate entry '0' for key 'PhoneNumber'
+[18:53:58] [WARNING] mysql_connect: no password specified
+[18:54:28] [ERROR] error #1062 while executing query "INSERT INTO `users` (`Name`, `Password`, `Score`, `Cash`, `Admin`, `Skin`, `Kills`, `Deaths`, `Armor`, `Weapon1`, `Weapon2`, `Weapon3`, `Weapon1Ammo`, `Weapon2Ammo`, `Weapon3Ammo`, `Job`, `JobActivity`, `Phone`, `PhoneNumber`, `CoordinateX`, `CoordinateY`, `CoordinateZ`, `Angle`, `Interior`, `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": Duplicate entry '0' for key 'PhoneNumber'
+[18:55:59] [ERROR] error #1062 while executing query "INSERT INTO `users` (`Name`, `Password`, `Score`, `Cash`, `Admin`, `Skin`, `Kills`, `Deaths`, `Armor`, `Weapon1`, `Weapon2`, `Weapon3`, `Weapon1Ammo`, `Weapon2Ammo`, `Weapon3Ammo`, `Job`, `JobActivity`, `Phone`, `PhoneNumber`, `CoordinateX`, `CoordinateY`, `CoordinateZ`, `Angle`, `Interior`, `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": Duplicate entry '0' for key 'PhoneNumber'
+[18:57:06] [WARNING] mysql_connect: no password specified
+[18:57:11] [ERROR] error #1062 while executing query "INSERT INTO `users` (`Name`, `Password`, `Score`, `Cash`, `Admin`, `Skin`, `Kills`, `Deaths`, `Armor`, `Weapon1`, `Weapon2`, `Weapon3`, `Weapon1Ammo`, `Weapon2Ammo`, `Weapon3Ammo`, `Job`, `JobActivity`, `Phone`, `PhoneNumber`, `CoordinateX`, `CoordinateY`, `CoordinateZ`, `Angle`, `Interior`, `VirtualWorld`) VALUES ('Elijah_Trotter', '952DFB4B1F68CD56529E6E34103DC6D72641D3177A68F09DDFE75213D333D40D', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0')": Duplicate entry '0' for key 'PhoneNumber'
+[19:06:13] [WARNING] mysql_connect: no password specified
+[19:07:10] [WARNING] mysql_connect: no password specified
+[19:08:14] [WARNING] mysql_connect: no password specified
+[11:56:04] [WARNING] mysql_connect: no password specified
+[12:14:03] [WARNING] mysql_connect: no password specified
+[12:15:29] [WARNING] mysql_connect: no password specified
+[12:17:23] [WARNING] mysql_connect: no password specified
+[12:19:27] [WARNING] mysql_connect: no password specified
+[12:19:27] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:19:57] [WARNING] mysql_connect: no password specified
+[12:19:57] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:21:04] [WARNING] mysql_connect: no password specified
+[12:21:04] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:21:27] [WARNING] mysql_connect: no password specified
+[12:21:27] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:26:36] [WARNING] mysql_connect: no password specified
+[12:26:36] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:27:35] [WARNING] mysql_connect: no password specified
+[12:27:35] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:28:10] [WARNING] mysql_connect: no password specified
+[12:28:10] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:29:27] [WARNING] mysql_connect: no password specified
+[12:29:27] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:29:54] [WARNING] mysql_connect: no password specified
+[12:29:54] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:36:11] [WARNING] mysql_connect: no password specified
+[12:36:11] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:36:33] [WARNING] mysql_connect: no password specified
+[12:36:33] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[09:54:35] [WARNING] mysql_connect: no password specified
+[10:05:35] [WARNING] mysql_connect: no password specified
+[10:05:35] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[10:08:24] [WARNING] mysql_connect: no password specified
+[10:08:24] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[10:09:25] [WARNING] mysql_connect: no password specified
+[10:26:11] [WARNING] mysql_connect: no password specified
+[10:26:11] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[10:26:52] [WARNING] mysql_connect: no password specified
+[10:28:47] [WARNING] mysql_connect: no password specified
+[10:28:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[10:31:58] [WARNING] mysql_connect: no password specified
+[10:34:29] [WARNING] mysql_connect: no password specified
+[10:36:03] [WARNING] mysql_connect: no password specified
+[10:36:03] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[10:38:04] [WARNING] mysql_connect: no password specified
+[10:40:09] [WARNING] mysql_connect: no password specified
+[10:40:09] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[10:40:27] [WARNING] mysql_connect: no password specified
+[10:44:18] [WARNING] mysql_connect: no password specified
+[10:46:15] [WARNING] mysql_connect: no password specified
+[10:49:53] [WARNING] mysql_connect: no password specified
+[10:51:56] [WARNING] mysql_connect: no password specified
+[10:57:05] [WARNING] mysql_connect: no password specified
+[11:05:55] [WARNING] mysql_connect: no password specified
+[11:46:16] [WARNING] mysql_connect: no password specified
+[11:51:41] [WARNING] mysql_connect: no password specified
+[11:51:41] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:45:35] [WARNING] mysql_connect: no password specified
+[12:45:35] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:48:40] [WARNING] mysql_connect: no password specified
+[12:48:40] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:51:25] [WARNING] mysql_connect: no password specified
+[12:51:25] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:57:17] [WARNING] mysql_connect: no password specified
+[12:57:17] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[13:09:54] [WARNING] mysql_connect: no password specified
+[13:09:54] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[13:53:29] [WARNING] mysql_connect: no password specified
+[13:53:29] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[14:03:39] [WARNING] mysql_connect: no password specified
+[14:03:39] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[14:05:31] [WARNING] mysql_connect: no password specified
+[14:05:31] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[14:07:27] [WARNING] mysql_connect: no password specified
+[14:07:27] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[16:07:17] [WARNING] mysql_connect: no password specified
+[16:08:59] [WARNING] mysql_connect: no password specified
+[16:08:59] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[16:09:47] [WARNING] mysql_connect: no password specified
+[16:09:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[16:10:58] [WARNING] mysql_connect: no password specified
+[16:10:58] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[16:33:24] [WARNING] mysql_connect: no password specified
+[18:43:27] [WARNING] mysql_connect: no password specified
+[18:53:23] [WARNING] mysql_connect: no password specified
+[18:53:23] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[22:01:01] [WARNING] mysql_connect: no password specified
+[22:46:35] [WARNING] mysql_connect: no password specified
+[12:23:47] [WARNING] mysql_connect: no password specified
+[12:25:19] [WARNING] mysql_connect: no password specified
+[12:28:45] [WARNING] mysql_connect: no password specified
+[12:29:17] [WARNING] mysql_connect: no password specified
+[12:32:20] [WARNING] mysql_connect: no password specified
+[12:33:45] [WARNING] mysql_connect: no password specified
+[12:50:38] [WARNING] mysql_connect: no password specified
+[12:53:19] [WARNING] mysql_connect: no password specified
+[13:01:24] [WARNING] mysql_connect: no password specified
+[13:02:36] [WARNING] mysql_connect: no password specified
+[14:52:35] [WARNING] mysql_connect: no password specified
+[21:58:53] [WARNING] mysql_connect: no password specified
+[22:22:54] [WARNING] mysql_connect: no password specified
+[23:32:38] [WARNING] mysql_connect: no password specified
+[14:50:19] [WARNING] mysql_connect: no password specified
+[14:53:37] [WARNING] mysql_connect: no password specified
+[20:14:03] [WARNING] mysql_connect: no password specified
+[20:15:34] [WARNING] mysql_connect: no password specified
+[20:19:18] [WARNING] mysql_connect: no password specified
+[22:58:36] [WARNING] mysql_connect: no password specified
+[22:58:40] [WARNING] mysql_connect: no password specified
+[23:07:53] [WARNING] mysql_connect: no password specified
+[23:16:21] [WARNING] mysql_connect: no password specified
+[18:02:25] [WARNING] mysql_connect: no password specified
+[19:08:09] [WARNING] mysql_connect: no password specified
+[19:09:40] [WARNING] mysql_connect: no password specified
+[19:14:11] [WARNING] mysql_connect: no password specified
+[19:25:05] [WARNING] mysql_connect: no password specified
+[19:27:59] [WARNING] mysql_connect: no password specified
+[19:30:14] [WARNING] mysql_connect: no password specified
+[19:34:58] [WARNING] mysql_connect: no password specified
+[20:11:48] [WARNING] mysql_connect: no password specified
+[20:18:53] [WARNING] mysql_connect: no password specified
+[20:23:15] [WARNING] mysql_connect: no password specified
+[18:17:49] [WARNING] mysql_connect: no password specified
+[18:32:17] [WARNING] mysql_connect: no password specified
+[20:26:18] [WARNING] mysql_connect: no password specified
+[23:08:14] [WARNING] mysql_connect: no password specified
+[23:26:12] [WARNING] mysql_connect: no password specified
+[23:32:20] [WARNING] mysql_connect: no password specified
+[23:33:44] [WARNING] mysql_connect: no password specified
+[11:37:51] [WARNING] mysql_connect: no password specified
+[12:12:10] [WARNING] mysql_connect: no password specified
+[12:13:48] [WARNING] mysql_connect: no password specified
+[12:14:45] [WARNING] mysql_connect: no password specified
+[12:14:45] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:15:48] [WARNING] mysql_connect: no password specified
+[12:15:48] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:16:15] [WARNING] mysql_connect: no password specified
+[12:16:15] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:17:06] [WARNING] mysql_connect: no password specified
+[12:17:06] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:18:53] [WARNING] mysql_connect: no password specified
+[12:18:53] [WARNING] duplicate connection detected: handle id 1 already exists with host = 'localhost', username = 'root' and database = 'pimp_database'
+[12:19:16] [WARNING] mysql_connect: no password specified
+[12:20:29] [WARNING] mysql_connect: no password specified
+[12:21:21] [WARNING] mysql_connect: no password specified
+[12:21:46] [WARNING] mysql_connect: no password specified
+[12:24:13] [WARNING] mysql_connect: no password specified
+[12:32:53] [WARNING] mysql_connect: no password specified
+[12:33:55] [WARNING] mysql_connect: no password specified
+[12:34:33] [WARNING] mysql_connect: no password specified
+[12:35:34] [WARNING] mysql_connect: no password specified
+[12:37:27] [WARNING] mysql_connect: no password specified
+[12:37:58] [WARNING] mysql_connect: no password specified
+[12:39:56] [WARNING] mysql_connect: no password specified
+[12:41:58] [WARNING] mysql_connect: no password specified
+[12:42:20] [WARNING] mysql_connect: no password specified
+[12:42:58] [WARNING] mysql_connect: no password specified
+[12:43:23] [WARNING] mysql_connect: no password specified
+[12:51:07] [WARNING] mysql_connect: no password specified
+[12:51:29] [WARNING] mysql_connect: no password specified
+[13:35:49] [WARNING] mysql_connect: no password specified
+[13:36:14] [WARNING] mysql_connect: no password specified
+[17:08:14] [WARNING] mysql_connect: no password specified
+[17:13:01] [WARNING] mysql_connect: no password specified
+[17:14:11] [WARNING] mysql_connect: no password specified
+[17:16:45] [WARNING] mysql_connect: no password specified
+[17:18:22] [WARNING] mysql_connect: no password specified
+[17:28:09] [WARNING] mysql_connect: no password specified
+[17:35:34] [WARNING] mysql_connect: no password specified
+[17:36:11] [WARNING] mysql_connect: no password specified
+[17:49:25] [WARNING] mysql_connect: no password specified
+[17:54:34] [WARNING] mysql_connect: no password specified
+[17:56:05] [WARNING] mysql_connect: no password specified
+[17:57:10] [WARNING] mysql_connect: no password specified
+[17:58:03] [WARNING] mysql_connect: no password specified
+[17:58:48] [WARNING] mysql_connect: no password specified
+[18:00:03] [WARNING] mysql_connect: no password specified
+[18:02:14] [WARNING] mysql_connect: no password specified
+[18:02:51] [WARNING] mysql_connect: no password specified
+[18:03:33] [WARNING] mysql_connect: no password specified
+[18:12:58] [WARNING] mysql_connect: no password specified
+[21:13:35] [WARNING] mysql_connect: no password specified
+[21:33:05] [WARNING] mysql_connect: no password specified
+[21:21:21] [WARNING] mysql_connect: no password specified
+[22:49:18] [WARNING] mysql_connect: no password specified
+[22:51:00] [WARNING] mysql_connect: no password specified
+[22:56:09] [WARNING] mysql_connect: no password specified
+[22:58:03] [WARNING] mysql_connect: no password specified
+[22:59:42] [WARNING] mysql_connect: no password specified
+[23:20:23] [WARNING] mysql_connect: no password specified
+[23:27:11] [WARNING] mysql_connect: no password specified
+[23:27:55] [WARNING] mysql_connect: no password specified
+[23:29:14] [WARNING] mysql_connect: no password specified
+[20:17:32] [WARNING] mysql_connect: no password specified
+[20:20:00] [WARNING] mysql_connect: no password specified
+[20:21:30] [WARNING] mysql_connect: no password specified
+[20:27:11] [WARNING] mysql_connect: no password specified
+[20:28:46] [WARNING] mysql_connect: no password specified
+[20:29:58] [WARNING] mysql_connect: no password specified
+[20:31:01] [WARNING] mysql_connect: no password specified
+[20:32:36] [WARNING] mysql_connect: no password specified
+[20:33:43] [WARNING] mysql_connect: no password specified
+[17:08:46] [WARNING] mysql_connect: no password specified
+[17:24:50] [WARNING] mysql_connect: no password specified
+[21:18:09] [WARNING] mysql_connect: no password specified
+[21:25:43] [WARNING] mysql_connect: no password specified
+[21:46:07] [WARNING] mysql_connect: no password specified
+[22:05:21] [WARNING] mysql_connect: no password specified
+[22:06:26] [WARNING] mysql_connect: no password specified
+[22:08:33] [WARNING] mysql_connect: no password specified
+[11:42:42] [WARNING] mysql_connect: no password specified
+[11:56:04] [WARNING] mysql_connect: no password specified
+[11:57:57] [WARNING] mysql_connect: no password specified
+[12:05:03] [WARNING] mysql_connect: no password specified
+[12:06:33] [WARNING] mysql_connect: no password specified
+[12:07:23] [WARNING] mysql_connect: no password specified
+[12:08:19] [WARNING] mysql_connect: no password specified
+[12:11:06] [WARNING] mysql_connect: no password specified
+[14:56:49] [WARNING] mysql_connect: no password specified
