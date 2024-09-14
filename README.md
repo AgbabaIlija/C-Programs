@@ -7,6 +7,7 @@ community server:
 -Multithreading Projects:
 
  -Matrix Animation: A multithreaded program that generates and displays random characters in multiple columns, simulating the "falling" Matrix effect with varying speeds and colors.
+ 
  -Person Generator & Sorter: A multithreaded console application that generates 100 random people with names and ages, allowing users to interact with the list by pausing threads, displaying, and sorting by name.
 
 -Arduino Project:
